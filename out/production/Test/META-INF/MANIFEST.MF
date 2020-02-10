@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Main-Class: Main
+Class-Path: thymeleaf-3.0.11.RELEASE.jar ognl-3.1.12.jar javassist-3.20.
+ 0-GA.jar attoparser-2.0.5.RELEASE.jar unbescape-1.1.6.RELEASE.jar slf4j
+ -api-1.7.25.jar thymeleaf-extras-java8time-3.0.4.RELEASE.jar thymeleaf-
+ 3.0.11.RELEASE.jar ognl-3.1.12.jar javassist-3.20.0-GA.jar attoparser-2
+ .0.5.RELEASE.jar unbescape-1.1.6.RELEASE.jar slf4j-api-1.7.25.jar
+
